@@ -1,1 +1,1 @@
-# operating-system--CSA0494
+# CSA-0494-operating system design with segmentation and paging
